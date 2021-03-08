@@ -1,0 +1,11 @@
+.card{
+    border: 1px solid #111;
+    margin:10px 0;
+    padding:20px;
+    font-size: 25PX;
+}
+button{
+    padding:5px 15px;
+    margin: 5px;
+    font-size: 20px;
+}
